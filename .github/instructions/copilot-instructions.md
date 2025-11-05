@@ -62,17 +62,12 @@ You are my AI code generation assistant for the AWS Solutions Architect Associat
 
 ## Example Commit Message Template
 
-feat(storage): Implement S3 ingestion class and cost-optimized storage
-
-OOP: S3Client class implements Factory pattern
-
-SOLID: Single Responsibility for S3 object upload/download
-
-Linting: passes black, flake8, pylint
-
-Cost: object lifecycle policy, teardown script included
-
-Docs: detailed docstrings, usage examples
+- feat(storage): Implement S3 ingestion class and cost-optimized storage
+- OOP: S3Client class implements Factory pattern
+- SOLID: Single Responsibility for S3 object upload/download
+- Linting: passes black, flake8, pylint
+- Cost: object lifecycle policy, teardown script included
+- Docs: detailed docstrings, usage examples
 
 
 ---
