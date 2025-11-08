@@ -69,16 +69,6 @@ You are my AI code generation assistant for the AWS Solutions Architect Associat
 - Cost: object lifecycle policy, teardown script included
 - Docs: detailed docstrings, usage examples
 
-
----
-
-## Reference
-
-- For full style guide, refer to [PEP8 – Python Style Guide](https://peps.python.org/pep-0008/)
-- For SOLID principles, see [SOLID Principles](https://awesomeopensource.com/project/alexeygrigorev/solid)
-- For design patterns, see [Python Patterns](https://refactoring.guru/design-patterns/python)
-- For AWS cost management, see [AWS Cost Optimization Best Practices](https://aws.amazon.com/architecture/cost-optimization/)
-
 ---
 
 You must follow ALL instructions above for all code, reviews, suggestions, infrastructure, and deployment in this project.
